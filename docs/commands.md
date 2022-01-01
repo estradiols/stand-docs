@@ -8,10 +8,10 @@ hide:
 #### Levitation
 |   Option   |   Command   |   Values   |
 |------------|:------------|:-----------|
-| Levitation Toggle | `levitate` | <kbd class="key">on</kbd> / <kbd class="key">off</kbd> |
-| Movement speed | `levitatespeed` | <kbd class="key">0.01</kbd> - <kbd class="key">10000.0</kbd> |
-| Sprint Multiplier | `levitatesprintmultiplier` | <kbd class="key">0.01</kbd> - <kbd class="key">10000.0</kbd> |
-| Movement Ignores Pitch | `levitateignorepitch` | <kbd class="key">on</kbd> / <kbd class="key">off</kbd> |
+| Levitation Toggle | `levitate` | on / off |
+| Movement speed | `levitatespeed` | 0.01 - 10000.0 |
+| Sprint Multiplier | `levitatesprintmultiplier` | 0.01 - 10000.0 |
+| Movement Ignores Pitch | `levitateignorepitch` | on / off |
 | Min Distance From Ground | `levitatepassivemin` | -10000.00 - 10000.00 |
 | Max Distance From Ground | `levitatepassivemax` | -10000.00 - 10000.00 |
 | Speed | `levitatepassivespeed` | 0 - 1000000 ||
@@ -26,7 +26,7 @@ hide:
 | Swim Speed | `swimspeed` | -10000.00 - 10000.00 |
 | Super Run | `superrun` | -10000.00 - 10000.00 |
 | Super Flight | `superflight` | -10000.00 - 10000.00 |
-| Super Jump | `superjump` | <kbd class="key">on</kbd> / <kbd class="key">off</kbd> |
-| Walk on Air | `walkonair` | <kbd class="key">on</kbd> / <kbd class="key">off</kbd> |
-| Swim in Air | `swiminair` | <kbd class="key">on</kbd> / <kbd class="key">off</kbd> |
-| Walk Underwater | `walkunderwater` | <kbd class="key">on</kbd> / <kbd class="key">off</kbd> |
+| Super Jump | `superjump` | on / off |
+| Walk on Air | `walkonair` | on / off |
+| Swim in Air | `swiminair` | on / off |
+| Walk Underwater | `walkunderwater` | on / off |
