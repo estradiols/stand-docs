@@ -1,0 +1,59 @@
+site_name: Stand Docs
+
+repo_name: Stand Docs
+#repo_url: https://github.com/fabricated-pack/fabricated
+#edit_uri: "https://github.com/fabricated-pack/fabricated-pack.github.io/edit/main/docs"
+
+nav:
+  - Getting Started: index.md
+  - Installation: installation.md
+  - Commands: commands.md
+  - Tutorials: 
+    - tutorials.md
+    - tutorials/theme.md
+  - Resources: resources.md
+  - Changelog: changelog.md
+
+extra:
+  version:
+    provider: mike
+
+extra_css:
+  - styles/extra.css
+
+markdown_extensions:
+  - pymdownx.keys
+  - toc:
+      toc_depth: 3
+
+theme:
+  name: material
+  logo: assets/logo.gif
+  favicon: assets/logo.gif
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.sections
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - search.highlight
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
+    - pink: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
