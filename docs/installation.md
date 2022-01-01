@@ -26,8 +26,8 @@ Then you paste this directly into the root folder of GTA.
 
 ### Using another DLL injector.
 
-You can also use other DLL injectors such as [Xenos](https://github.com/DarthTon/Xenos) to inject Stand.  
+You can also use other DLL injectors such as [Xenos](https://github.com/DarthTon/Xenos) or [Extreme Injector](https://www.unknowncheats.me/forum/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html) to inject Stand.  
 But keep in mind that this will not have the auto update feature the launchpad offers.  
 You can download the DLL from the Stand website but keep in mind to check if it's the latest version.
 
-- [Stand 0.71.2.dll](https://stand.gg/Stand%200.71.2.dll)
+- [Stand 0.71.3.dll](https://stand.gg/Stand%200.71.3.dll)
