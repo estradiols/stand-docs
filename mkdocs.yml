@@ -1,8 +1,8 @@
 site_name: Stand Docs
 
 repo_name: Stand Docs
-#repo_url: https://github.com/fabricated-pack/fabricated
-#edit_uri: "https://github.com/fabricated-pack/fabricated-pack.github.io/edit/main/docs"
+repo_url: https://github.com/gaycookie/stand-docs
+edit_uri: "https://github.com/gaycookie/stand-docs/edit/main/docs"
 
 nav:
   - Getting Started: index.md
