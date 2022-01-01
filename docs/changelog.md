@@ -5,7 +5,18 @@ hide:
 
 ## Stand Changelog
 
-### **0.71.2** - 2021/12/29 (Latest)
+### **0.71.2** - 2021/12/31 (Latest)
+- Improved Game > YEET
+- Fixed player tags not visually updating
+- Fixed bst toggle not properly working via command box
+- Fixed shader override not turning off
+- Fixed blackout not disabling by loading state
+- Fixed an issue where Stand is invisible but making sounds
+- Some other improvements and bugfixes
+
+---
+
+### **0.71.2** - 2021/12/29
 - Some improvements and bugfixes
 
 ---
@@ -44,13 +55,19 @@ hide:
     - Removed previously-deprecated util.async_http_get
 - Other improvements and bugfixes
 
+---
+
 ### **0.70.10** - 2021/12/23
 - Stand User Identification, Session Invite Links, and Update Notifications are now functional again
 - Some other improvements and bugfixes
 
+---
+
 ### **0.70.9** - 2021/12/21
 - Changed authentication system
 - Some improvements and bugfixes
+
+---
 
 ### **0.70.8** - 2021/12/20
 - Re-added Online > Disable Daily Expenses
@@ -60,12 +77,18 @@ hide:
 - Fixed camera going rogue after rewinding position
 - Some other improvements and bugfixes
 
+---
+
 ### **0.70.7** - 2021/12/18
 - Fixed random exceptions
 - Fixed spoofed host token default state discrepancies
 
+---
+
 ### **0.70.6** - 2021/12/18
 - Fixed some issues when in a session with other people
+
+---
 
 ### **0.70.5** - 2021/12/18
 - Fixed issues with session scripts management
@@ -74,21 +97,31 @@ hide:
 - Fixed attacking while invulnerable false-positives with new Imani Tech Remote Control
 - Some other improvements and bugfixes
 
+---
+
 ### **0.70.4** - 2021/12/16
 - Some improvements and bugfixes
 
+---
+
 ### **0.70.3** - 2021/12/15
 - Addressed a few oversights
+
+---
 
 ### **0.70.2** - 2021/12/15
 - Updated for 1.58-2545 The Contract
 - Lua: Added util.try_run & util.copy_to_clipboard
 - Some improvements and bugfixes
 
+---
+
 ### **0.70.1** - 2021/12/13
 - You can now spoof your host token at any time
 - Lua: Fixed players.get_host_token
 - Some other improvements and bugfixes
+
+---
 
 ### **0.70.0** - 2021/12/11
 - Stand now allows you to have multiple profiles at {Stand > Profiles}. Note that "Automatically Saved State" is not migrated, so you have to manually enable it for your profile, if you so wish.
@@ -108,6 +141,8 @@ hide:
 ### **1.7.1** - 2021/12/23 (Latest)
 - You can now say "No" to downloading Launchpad updates
 - A run as administrator hint will now show if 0 DLLs were injected
+
+---
 
 ### **1.7.0** - 2021/12/11
 - Now in dark mode
