@@ -10,6 +10,7 @@ Themes are used to customize Stand in a visual way.
 - [Pain](https://www.mediafire.com/file/s2w3vesa2hgr2ra/pain.zip/file) - Because I hate your eyes
 
 ### Dark
+- [Better2TAKE1](https://www.mediafire.com/file/e0dlojvrt2bcahs/Better2TAKE1.rar/file) - Big (stock) and small
 - [Clean Stand](https://skyforums.xyz/index.php?threads/%F0%9F%92%AB-clean-stand-%F0%9F%92%AB.16/) - A clean crisp stand menu made completely by me, with a 60fps animated banner and a sleek minimal design.
 - [Huxon Theme](https://upload.gaycookie.dev/Difi4/tOFIpifU16.zip) - The Huxon Theme.
 - [Huxon Theme v2](https://upload.gaycookie.dev/Difi4/wIBECEbu39.zip) - The long awaited by absolutely noone Huxon theme 2.0.
