@@ -12,4 +12,4 @@ The Stand version of the tutorial is the version of Stand at the time of writing
 Keep in mind that this does not always mean it won't work when your version is higher.
 
 [Install themes]: /tutorials/theme
-[Vehicle gifting]: /tutorials/vehicles-gifting
+[Vehicle gifting]: /tutorials/vehicle-gifting
