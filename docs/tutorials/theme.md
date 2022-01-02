@@ -7,16 +7,6 @@ hide:
 I've decided to write this document to make it easier for everyone to understand how installing a theme works.  
 This is a dumbed down version of what should work in most theme cases. I try to cover every detail.  
 
-### Overview
-- [Preparations](#preparations)
-- [Installation](#installation)
-- [References](#references)
-
-## Preparations
-- [Download a theme.](#download-a-theme)
-- [Install additional software.](#install-additional-software)
-- [Make a backup.](#make-a-backup)
-
 ### Download a theme.
 Maybe you already done this step and that is how you ended up here,  
 or maybe you are more like me and first read this before even downloading something.  
