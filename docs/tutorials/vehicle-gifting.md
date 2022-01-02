@@ -10,7 +10,7 @@ If you want to gift yourself a car, follow the steps as if you're the friend.
 2. Tell your friend to get a full garage. [how?](#get-a-full-garage)
 3. Open Stand and navigate to `Vehicles` followed by `Spawner` and spawn the car you want.
 4. (Optional) Open Stand and navigate to `Vehicles` followed by `Los Santos Customs` followed by `Upgrade`.
-5. Open Stand and navigate to `Players` followed by `friend name` and click `Gift Spawned Vehicle`.
+5. Open Stand and navigate to `Players` followed by `friend name` followed by `Friendly` and click `Gift Spawned Vehicle`.
 6. Tell your friend to drive the vehicle inside the full garage.
 7. Tell your friend to replace one of the cheap vehicles.
 8. Tell your friend to drive this car now to LSC and get `Full Coverage`.
