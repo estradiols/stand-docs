@@ -5,7 +5,7 @@ hide:
 
 ## Stand Changelog
 
-### **0.71.2** - 2021/12/31 (Latest)
+### **0.71.3** - 2021/12/31 (Latest)
 - Improved Game > YEET
 - Fixed player tags not visually updating
 - Fixed bst toggle not properly working via command box
