@@ -11,7 +11,7 @@ This is a dumbed down version of what should work in most theme cases. I try to 
 Maybe you already done this step and that is how you ended up here,  
 or maybe you are more like me and first read this before even downloading something.  
 If you still have to find a theme, you might wanna check out the [#theme] section in the Stand discord.  
-You can also check out my [Awesome Stand] list with resources for Stand.
+You can also check out the [resources](/resources) list with resources for Stand.
 
 ### Install additional software.
 Some themes are packaged using WinRar and use the extension `.rar`,  
@@ -75,6 +75,5 @@ This is the main folder from where Stand loads themes/scripts and other files.
 This folder can be found at `C:\Users\<USERNAME>\AppData\Roaming\Stand` or `%AppData%/Stand`.
 
 [#theme]: https://discord.com/channels/906313557623336991/906313558537682954
-[Awesome Stand]: https://git.gaycookie.dev/GayCookie/awesome-stand
 [WinRar]: https://www.win-rar.com
 [7Zip]: https://www.7-zip.org/
