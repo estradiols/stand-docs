@@ -12,6 +12,8 @@ hide:
 - Fixed some slider commands opening command box despite valid syntax
 - Some other improvements and bugfixes
 
+---
+
 ### **0.71.3** - 2021/12/31
 - Improved Game > YEET
 - Fixed player tags not visually updating
