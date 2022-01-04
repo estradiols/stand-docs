@@ -31,7 +31,7 @@ You can also use other DLL injectors such as [Xenos](https://github.com/DarthTon
 But keep in mind that this will not have the auto update feature the launchpad offers.  
 You can download the DLL from the Stand website but keep in mind to check if it's the latest version.
 
-- [Stand 0.71.3.dll](https://stand.gg/Stand%200.71.3.dll)
+- [Stand 0.71.4.dll](https://stand.gg/Stand%200.71.4.dll)
 
 ## Activate Stand
 If you bought one of the premium versions of Stand and you already created an account on [stand.gg](https://stand.gg/).  

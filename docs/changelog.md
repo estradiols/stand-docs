@@ -5,7 +5,14 @@ hide:
 
 ## Stand Changelog
 
-### **0.71.3** - 2021/12/31 (Latest)
+### **0.71.4** - 2022/01/04 (Latest)
+- Added a new root name (version only)
+- Patched a new kick method
+- Fixed save outfit not saving hair colour
+- Fixed some slider commands opening command box despite valid syntax
+- Some other improvements and bugfixes
+
+### **0.71.3** - 2021/12/31
 - Improved Game > YEET
 - Fixed player tags not visually updating
 - Fixed bst toggle not properly working via command box
