@@ -5,7 +5,14 @@ hide:
 
 ## Stand Changelog
 
-### **0.71.5** - 2022/01/05 (Latest)
+### **0.71.6** - 2022/01/05 (Latest)
+- Fixed co-loading with some menus
+- Fixed outfit variation commands not working as expected in some cases if used via command box
+- Some other improvements and bugfixes
+
+---
+
+### **0.71.5** - 2022/01/05 
 - Some improvements and bugfixes
 
 ---
