@@ -3,6 +3,12 @@ hide:
   - navigation 
 ---
 
+!!! warning "Stand randomly de-authing"
+    Since [**0.71.4**](/changelog/#0714-20220104) there seems to be quite a lot of people reporting their Stand "de-auths" and/or not showing up anymore randomly.  
+    As for now there is no solid patch available but there are some work arounds.  
+
+    Please visit this [page](/0.71.4-problem) to read more about this.
+
 # Getting Started
 ## Comparison between paid versions.
 
