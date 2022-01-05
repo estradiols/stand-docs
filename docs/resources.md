@@ -18,7 +18,7 @@ Themes are used to customize Stand in a visual way.
 - [Purple Perfection](https://www.mediafire.com/file/peza3glucyp3mes/Purple_Perfection.zip/file) - Probably my last theme, its hot.
 - [Stand Matte](https://skyforums.xyz/index.php?threads/%E2%AC%9B-stand-matte-%E2%AC%9B.17/) - Stand Matte is a sleek, minimal, flat rounded design with a focus on simple yet customizable colours.
 - [Stand Matte V2](https://skyforums.xyz/index.php?threads/%F0%9F%95%B6%EF%B8%8F-stand-matte-v2-%F0%9F%95%B6%EF%B8%8F.18/) - Stand Matte V2 is a upgrade to the previous version adding a new custom font, better colours, and a new header.
-- [Stand Sunset](https://www.mediafire.com/file/d2znctyo3i54eg2/Stand_Sunset_Theme.zip/file) - I dont have a better name
+- [Stand Sunset](https://www.mediafire.com/file/d2znctyo3i54eg2/Stand_Sunset_Theme.zip/file) - I dont have a better name.
 - [Stand Wars](https://www.mediafire.com/file/u4llp4k1j3wyqp2/Stand_Wars.zip/file) - A Star Wars inspired theme.
 
 ### Others
