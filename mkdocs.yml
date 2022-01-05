@@ -6,6 +6,7 @@ edit_uri: "https://github.com/gaycookie/stand-docs/edit/main/docs"
 
 nav:
   - Getting Started: index.md
+  - FAQ: faq.md
   - Installation: installation.md
   - Commands: commands.md
   - Tutorials: 
@@ -23,6 +24,9 @@ extra_css:
   - styles/extra.css
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.keys
   - toc:
       toc_depth: 3
