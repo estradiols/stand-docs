@@ -5,7 +5,12 @@ hide:
 
 ## Stand Changelog
 
-### **0.71.4** - 2022/01/04 (Latest)
+### **0.71.5** - 2022/01/05 (Latest)
+- Some improvements and bugfixes
+
+---
+
+### **0.71.4** - 2022/01/04
 - Added a new root name (version only)
 - Patched a new kick method
 - Fixed save outfit not saving hair colour
