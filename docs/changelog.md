@@ -71,7 +71,7 @@ hide:
 
 ---
 
-### **0.71.0** - 2021/12/25
+### **0.71** - 2021/12/25
 - Web Interface is now functional again
 - Added Vehicle > Current Personal Vehicle > Imani Tech Remote Control
 - Added Vehicle > Movement > Custom Wings Behaviour
@@ -160,7 +160,7 @@ hide:
 
 ---
 
-### **0.70.0** - 2021/12/11
+### **0.70** - 2021/12/11
 - Stand now allows you to have multiple profiles at {Stand > Profiles}. Note that "Automatically Saved State" is not migrated, so you have to manually enable it for your profile, if you so wish.
 - Added Vehicle > Los Santos Customs > Appearance > Remove Turret
 - [Regular] Added Online > Transitions > Matchmaking Region
