@@ -5,7 +5,23 @@ hide:
 
 ## Stand Changelog
 
-### **0.71.6** - 2022/01/05 (Latest)
+### **0.71.8** - 2022/01/06 (Latest)
+- Possibly fixed random log out issues
+- Some other improvements and bugfixes
+
+---
+
+### **0.71.7** - 2022/01/06
+- Fixed some log out cases not providing a notification
+- Fixed an issue where Stand can't be opened
+- Lua: Added more "entity data from pointer" functions (entities.get_model_hash, entities.get_position, entities.get_rotation & entities.get_health)
+- Lua: Fixed util.toast & util.log not taking booleans
+- Lua: Updated util.draw_debug_text to take any string-castable like util.toast & util.log
+- Some other improvements and bugfixes
+
+---
+
+### **0.71.6** - 2022/01/05
 - Fixed co-loading with some menus
 - Fixed outfit variation commands not working as expected in some cases if used via command box
 - Some other improvements and bugfixes
