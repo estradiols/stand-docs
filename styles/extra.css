@@ -1,0 +1,13 @@
+html, body {
+  font-size: 20px !important;
+}
+
+[data-md-color-accent=pink] {
+  --md-primary-fg-color: rgb(254, 2, 251);
+  --md-primary-fg-color--light: rgb(254, 2, 251);
+  --md-primary-fg-color--dark: rgb(254, 2, 251);
+}
+
+[data-md-color-accent=pink] {
+  --md-accent-fg-color: rgb(254, 2, 251);
+}
